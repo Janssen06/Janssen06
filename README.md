@@ -34,17 +34,3 @@ I am Dynamic Product Owner and Manager with a proven track record leading the de
 📧 Sarah.janssen@icloud.com
 
 📱 +1 (605) 651-4560 
-<!--
-**Janssen06/Janssen06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently open to work in Product and Project Management or Product ownership. 
-🌱 I’m currently learning python, AI, and keeping current in geospatial. 
-👯 I’m looking to collaborate on new projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
