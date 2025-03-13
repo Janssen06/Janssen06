@@ -5,7 +5,7 @@ I am Dynamic Product Owner and Manager with a proven track record leading the de
 
 🔭 I’m currently open to work in Product and Project Management or Product ownership. 
 
-🌱 I’m currently learning python, AI, and keeping current in geospatial. 
+🌱 I’m currently learning python, how AI can be incorporated into projects and daily tasks, and keeping current in geospatial. 
 
 👯 I’m looking to collaborate on new projects
 
