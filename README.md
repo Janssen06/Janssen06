@@ -18,7 +18,7 @@ I am Dynamic Product Owner and Manager with a proven track record leading the de
 - [x] Visual communication skills
 - [x]  Customer Focused
 
-To view my full resume click here [Sarah Janssen Resume]()
+My Full resume is avaialable here: [Sarah Janssen Resume](https://github.com/Janssen06/Janssen06/blob/c81ba016eee803d9cf6820abea8f7a8cff997ae1/Sarah%20Janssen%20Resume%20_Generic.pdf)
 
 ## Facts about me  
 🔭 I’m currently open to work in Product and Project Management or Product ownership. 
