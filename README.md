@@ -3,17 +3,33 @@ I am Dynamic Product Owner and Manager with a proven track record leading the de
 
 ![Sarah Janssen Image](https://github.com/user-attachments/assets/66920f81-dee4-4516-a5ed-2da481edbd44)
 
+## My top Skills 
+- [x] Agile Project Management Skills/Agile Development
+- [x] Product development road-mapping and backlog prioritization with Jira and confluence
+- [x] Global project management
+- [x] Stakeholder engagement
+- [x] Cross-functional collaboration and Leadership
+- [x] User Experience Testing
+- [x] Geographic information systems
+- [x] Analytical Mindset
+- [x] Technical understanding of APIs, data pipelines, and machine learnin
+- [x] Drone Technology proficiency, UAV operation, flight planning, and management
+- [x] LiDar Technology proficiency
+- [x] Visual communication skills
+- [x]  Customer Focused
 
+## Facts about me  
 🔭 I’m currently open to work in Product and Project Management or Product ownership. 
 
 🌱 I’m currently learning python, how AI can be incorporated into projects and daily tasks, and keeping current in geospatial. 
 
 👯 I’m looking to collaborate on new projects
 
-📫 How to reach me: 
-📧 Sarah.janssen@icloud.com
-📱 +1 (605) 651-4560 
+## 📫 How to reach me: 
 
+📧 Sarah.janssen@icloud.com
+
+📱 +1 (605) 651-4560 
 <!--
 **Janssen06/Janssen06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
