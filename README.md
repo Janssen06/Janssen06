@@ -23,6 +23,10 @@ I am Dynamic Product Owner and Manager with a proven track record leading the de
 
 🌱 I’m currently learning python, how AI can be incorporated into projects and daily tasks, and keeping current in geospatial. 
 
+🌽 I have an extensive background in Agriculture 
+
+🗺 I love to travel, and would love to reach every continent in my lifetime
+
 👯 I’m looking to collaborate on new projects
 
 ## 📫 How to reach me: 
