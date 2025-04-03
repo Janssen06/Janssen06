@@ -1,5 +1,6 @@
 ## Hi there 👋 My name is Sarah Janssen
-I am Dynamic Product Owner and Manager with a proven track record leading the development of innovative geospatial tools from ideation to production. I excel at collaborating with developers from the ground up to create solutions that drive customer value and enhance business decision-making. Experienced in Agile project management and cross-functional leadership, boosting operational efficiency by over 30%. Expertise in geospatial analysis, fostering stakeholder engagement, and driving projects to success through strategic vision and collaborative excellence. I have an extensive background in agriculture and over 15 years of industry expertise. 
+Forward-thinking Product Owner and Project Manager with 15+ years of experience leading cross-functional, global teams to develop and deliver cutting-edge geospatial and drone-based technologies. Proven expertise in Agile methodologies, strategic product road mapping, and stakeholder engagement to streamline operations, elevate user experience, and drive data-informed decision-making. Recognized for pioneering product launches and optimizing software development in high-impact agricultural and scientific environments.
+
 
 ![Sarah Janssen Image](https://github.com/user-attachments/assets/66920f81-dee4-4516-a5ed-2da481edbd44)
 
