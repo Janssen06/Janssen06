@@ -9,7 +9,7 @@ I am an experienced Product Owner with a strong background in agricultural techn
 
 - **Leadership in Agricultural Tech Initiatives**: Successfully led the Spatial Trial Planning (STP) and High Throughput Phenotyping (HTP) initiatives, starting from ideation to expanding capabilities and adoption across North America and other regions.
 - **Workflow Optimization**: Delivered comprehensive workflows for key phenotyping processes, including Soybean relative maturity, Iron Deficiency Chlorosis in Soybean and Corn emergence, and plant height.
-- **In-House Technological Advancements**: Implemented solutions for stitched orthomosaics, enabling full drone-to-visualization capabilities.
+- **In-House Technological Advancements**: Implemented in-house GIS workflows generating stitched orthomosaics, enabling end-to-end geospatial visualization from UAV imagery to stakeholder-ready maps. 
 - **Data-Driven Insights**: Scaled corn plant height measurements using Drone LiDAR across multiple regions.
 - **System Modernization**: Led the transition from the legacy system to a modern trial mapping and management workflow.
 - **Cross-Regional Impact**: Rolled out new field mapping workflows and successfully deployed Soybean Relative Maturity workflows at scale in multiple regions.
@@ -43,22 +43,20 @@ I am an experienced Product Owner with a strong background in agricultural techn
 ---
 
 ## Areas for Growth
-- **Strategic Influence**: Expanding leadership impact beyond HTP/STP to broader enterprise initiatives.
-- **Knowledge Sharing**: Developing centralized documentation for improved information access and onboarding.
+- **Strategic Influence**: Continue Expanding leadership impact to broader initiatives.
 - **Time Management**: Refining estimation skills for requested improvements and balancing workload efficiently.
 - **Stakeholder Engagement**: Enhancing communication strategies to improve workflow adoption and decision-making alignment.
 
 ---
 
-## Recommendations & Next Steps
-- Continue leveraging technical expertise to drive innovation in agricultural technology solutions.
-- Develop structured knowledge-sharing processes to enhance team collaboration and efficiency.
+## Next Steps
+- Continue leveraging technical expertise to drive innovation in technology solutions.
 - Seek strategic contributions across a broader range of enterprise initiatives.
-- Optimize time management strategies to handle growing responsibilities effectively.
 - Maintain a proactive approach while balancing workload and team resources.
+- Continue to learn more about emerging technologies
 
 ---
 
 ## Conclusion
-I am deeply committed to advancing agricultural technology through innovation, collaboration, and strategic leadership. My ability to bridge technical and business needs, drive efficiency, and manage complex initiatives makes me a valuable contributor to any forward-thinking organization. Moving forward, I aim to further develop my leadership capabilities while continuing to drive impactful solutions in the industry.
+I am deeply committed to advancing technology through innovation, collaboration, and strategic leadership. My ability to bridge technical and business needs, drive efficiency, and manage complex initiatives makes me a valuable contributor to any forward-thinking organization. Moving forward, I aim to further develop my leadership capabilities while continuing to drive impactful solutions in the industry.
 
